@@ -1,0 +1,104 @@
+
+
+p{
+    justify-content: center;
+    text-align: justify;
+}
+#business{
+    background-image: url(image/business.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #333333;
+    padding: 10px 15px;
+}
+#carouselExampleIndicators{
+    background-image: url(./image/slider01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1.whatwedo{
+    font-size: 4rem;
+    color: #828282;
+}
+h2{
+    text-decoration: underline;
+    
+    font-size: 60px;
+    
+}
+
+.big-banner{
+    background-image: url(image/anime_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.service{
+    background-color: black;
+}
+.big-banner .border{
+
+    border: 2px solid #009393!important
+}
+.footerback{
+    background-image: url(image/Footer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.footerform{
+    background-color: #009393 !important;
+    padding-left:10px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Business{
+    background-image: url(image/business_back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#exampleInputEmail1{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+/* About CSS  */
+.fa-whatsapp{
+    color: #009393 ;
+}
+#About_heading{
+    text-decoration: none;
+}
+.hr_1{
+    border-top: 4px solid black;
+    width:50%;
+}
+.hr_2{
+    border-top: 4px solid #009393;
+    width: 30%;
+}
+.service{
+    background-image: url(image/Service.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.border-left{
+    border-left: 2px dashed black !important;
+}
+.footer_3{
+    background-color: black;
+}
+.testimonial{
+    background-color: #006464;
+    /* background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+}
